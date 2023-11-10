@@ -64,7 +64,7 @@ export default class Parser {
 			ignoreDeclarations: true,
 			decodeEntities: true,
 			preserveSourceLiterally: false,
-			allowUnknownTags: false,
+			allowUnknownTags: true,
 			multiTags: {}, // e.g. { "nav": ["endnav"], "switch": ["case", "default", "endswitch"]}
 			...options,
 		}

@@ -1,5 +1,5 @@
 {
-	"name": "@nsetyo/prettier-plugin-twig",
+	"name": "@6a5p1/prettier-plugin-twig",
 	"version": "0.1.4",
 	"description": "Twig Prettier Plugin ",
 	"main": "dist/index.js",
@@ -15,7 +15,6 @@
 		"twig",
 		"prettier"
 	],
-	"author": "setyo@pm.me",
 	"license": "MIT",
 	"devDependencies": {
 		"@commitlint/cli": "^17.7.1",
